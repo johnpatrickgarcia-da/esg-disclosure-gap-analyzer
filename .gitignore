@@ -1,1 +1,17 @@
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Power BI temp files
+*.tmp
+~*.pbix
+
+# VS Code
+.vscode/
